@@ -1,0 +1,84 @@
+<DOCTYPE! html>
+<body style = "font-family:Times New Roman;font-size:14px;">
+	<div>
+		<h1>CHEN JIN</h1>
+		<p><a href = "https://www.linkedin.com/in/chen-jin-nyu" target = "_blank">www.linkedin.com/in/chen-jin-nyu</a> | (646)995-9558 | <a href = "mailto:chen.jin@nyu.edu" target = "_blank">chen.jin@nyu.edu</a> 
+	</div>
+	<div>
+		<h3>EDUCATION</h3>
+		<p>_____________________________________________________________________________________</p>
+		<p> 
+			<pre style = "font-family:Times New Roman;"><strong>New York University</strong>, <i>Courant Institute of Mathematical Science</i>				Expected May 2022
+		<br>Bachelor of Arts, Computer Science and Economics							New York, NY</pre></p>
+		<p>Cumulative GPA: 3.9/4.0</p>
+		<pre style = "font-family:Times New Roman;"><strong>Pennsylvania State University</strong>, <i>Smeal College of Business</i>				Sept. 2017 –  December 2018</pre>
+		<p><pre style = "font-family:Times New Roman;">B.S. in Marketing and Economics											State College, PA</pre></p>
+		<p>Cumulative GPA: 3.94/4.0 (Honor）</p>
+	</div>
+	<div id="Intership">
+		<h3>INTERNSHIP</h3>
+		<p>_____________________________________________________________________________________</p>
+		<pre style = "font-family:Times New Roman;">Citic Securities, business Intern, Shanghai, China			                June 2018 – July 2018</pre>
+		<ul>
+			<li>Analyzed price changes and investment decisions for public funds and private funds</li>
+			<li>Wrote weekly market analysis reports and financial product research reports</li>
+			<li>Produced a 10-page report on Tianhong Asset Management Co., Ltd on its 6-month performance</li>
+		</ul>
+	</div>
+	<div id="Research Experience">
+		<h3>RESEARCH EXPERIENCE</h3>
+		<p>_____________________________________________________________________________________</p>
+		<pre style = "font-family:Times New Roman;">Documentary Shooting: Female Genital Mutilation (FGM), Maasai Mara, KY             March 2018 – October 2018</pre>
+		<ul>
+			<li>
+			Produced a 25-minute documentary on the current Female Genital Mutilation culture in Maasai which hits <br> 38,000+ views on the Tencent Video platform
+			</li>
+			<li>
+			Initiated and managed the Video Editing Team, Preproduction Team, and On-site Team
+			</li>
+			<li>
+			Interviewed 50+ Maasai residents, including circumcised women and their families, Village Chief, Medicine<br> Man, Blacksmith, TV celebrities, researchers, and anti-FGM activists
+			</li>
+		</ul>
+		<pre style = "font-family:Times New Roman;">Field Research: Female African Workers in Chinese Companies in Nairobi, KY       May 2017 – September 2017</pre>
+		<ul>
+			<li>Conducted a field research study on African female workers’ working conditions and employment gender <br> inequality in local Chinese companies</li>
+			<li>Published: “African Female Workers in Chinese Companies in Kenya: Myths and Challenges” in The China <br> Africa Project, 3 Sept. 2017, 
+			<a href = "chinaafricaproject.com/africa-kenya-workers-women-female-chen-jin-chinahouse/" target = "_blank">chinaafricaproject.com/africa-kenya-workers-women-female-chen-jin-chinahouse/</a>
+			</li>
+		</ul>
+	</div>
+
+	<div id = "Leadership Activities">
+
+	</div>
+		<h3>LEADERSHIP ACTIVITIES</h3>
+		<p>____________________________________________________________________________________</p>
+		<pre style = "font-family:Times New Roman;"> <strong> Rewriting the Code </strong>, Fellow				      Sept. 2019 – Present</pre>
+		<ul>
+			<li>Joined fellowship at Rewriting the Code (RTC), an organization designed to supports women in technology and <br> provide career opportunities with RTC company partners</li>
+			<li>Attended numerous social and professional events hosted by RTC throughout the year</li>
+			<li>Applied and selected to join Morgan Stanley x RTC brunch and networking event hosted for Women in STEM</li>
+		</ul>
+		<pre style = "font-family:Times New Roman;"> <strong> NYU Women in Computer Science </strong>, Mentee				      Sept. 2019 – Present</pre> 
+		<ul>
+			<li>Scheduling biweekly meetings with my mentor, Nellie Spektor, to discuss technology-related panel talks and <br> upcoming internship/fulltime opportunities in Computer Science field</li>
+		</ul>
+		<pre style = "font-family:Times New Roman;"> <strong> NYU Chinese Student and Scholar Association</strong>,External Affairs Coordinator		      Sept. 2019 – Present</pre>
+		<ul>
+			<li>Collaborated with a team of fourteen and yielded $20,000 as annual sponsorship in 2019 </li>
+			<li>Secured sponsorship from local businesses in NYC and companies in the US and China (e.g. PwC, Lumino City Festival)<br> to facilitate on-campus events</li>
+			<li>Planned, organized and outreach to other student clubs at NYU about annual club events (e.g. TCFA, The Gala)</li>
+		</ul>
+	</div>
+	<div id = "computer skills and courses taken">
+		<h3>COMPUTER SKILLS & COURSES</h3>
+		<p>____________________________________________________________________________________</p>
+		<ul>
+			<li>Python, Java, Latex, Object-Oriented Programming (OOP)</li>
+			<li>Intro to Computer Programming, Java, Discrete Math, Linear Algebra, Intro to HTML, Calculus I&II</li>
+		</ul>
+	</div>
+</body>
+</html>
+
